@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>How guys, welcome to our first automation using jenkins, maven, bitbucket and Tomcat!!!!</h2>
+<h2>How guys, welcome to webhook from GitHub to Jenkins!!!</h2>
 </body>
 </html>
 
